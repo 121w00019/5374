@@ -1,6 +1,6 @@
 label,sublabel,description,styles,bgcolor
 不燃,,,img/hunen.svg,#733b96
-燃,,,img/moeru,#ea3b13
+燃,,,img/moeru.svg,#ea3b13
 危険,,,img/yugai.svg,#2dc7aa
-資1,,,img/shigen1,#77ae1f
-資2,,,img/shigen2,#33aabb
+資1,,,img/shigen1.svg,#77ae1f
+資2,,,img/shigen2.svg,#33aabb
