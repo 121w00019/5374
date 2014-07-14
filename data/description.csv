@@ -1,4 +1,7 @@
 label,sublabel,description,styles,bgcolor
-もえるごみ,,,img/moyasanai02.svg,#733b96
-その他,,,,#77ae1f
-資源,,,,#ea3b13
+不燃,,,,#733b96
+燃,,,,#ea3b13
+危険,,,,#2dc7aa
+資1,,,,#77ae1f
+資2,,,,#33aabb
+ 
